@@ -1,4 +1,6 @@
-🔗 Today I Read and Reviewed
+***🔗 Today I Read and Reviewed***
+
+> 하루에. 한 개씩. 기업들의 개발 블로그를 읽고, 느낀 점을 짧게 기록하기 대작전
 
 ### INDEX
 - [Kakao Tech](#kakao-tech-)

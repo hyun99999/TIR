@@ -1,17 +1,15 @@
 ***🔗 Today I Read and Reviewed***
-
 > 하루에. 한 개씩. 기업들의 개발 블로그를 읽고, 느낀 점을 짧게 기록하기 대작전
+
+<br>
 
 <div align=center>
 
-<img src="https://user-images.githubusercontent.com/69136340/168647646-144a7c15-0eb5-4c60-8a2b-8a7eca2994fb.gif" width ="300">
+<img src="https://user-images.githubusercontent.com/69136340/168649639-4398fa57-4ea6-450d-ac81-b3c16492ef92.gif" width ="250">
 
 </div>
 
-### INDEX
-- [Kakao Tech](#kakao-tech-)
-- [GMarket Tech](#gmarket-tech-)
-- [Brunch](#brunch-)
+
 
  <div align = center>
 

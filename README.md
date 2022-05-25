@@ -52,5 +52,15 @@
 ## 우아한 형제들[🔗](https://techblog.woowahan.com)
  
 </div>
+- [ ][iOS Networking and Testing](https://techblog.woowahan.com/2704/)
 
 
+<div align = center>
+ 
+## 당근마켓[🔗](https://medium.com/daangn/development/home)
+ 
+</div>
+
+- [ ] [모바일 앱 공개채용 설명회 ](https://team.daangn.com/jobs/4300798003/)
+- [ ] [당근마켓 iOS 프로젝트에 XcodeGen 도입하기](https://medium.com/daangn/프로젝트에-xcodegen-도입하기-d0fd54691aad)
+- [ ] 

@@ -72,3 +72,9 @@
 </div>
 
 - [ ] [2주간의 온라인 페어프로그래밍 회고](https://medium.com/@hongseongho/2주간의-온라인-페어프로그래밍-회고-c5796bfa77c1)
+
+<div align=center>
+ 
+## Style Share[🔗](https://medium.com/styleshare/medium-com-styleshare-engineering/home) 
+ 
+</div>

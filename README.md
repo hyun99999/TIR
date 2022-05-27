@@ -56,6 +56,7 @@
 </div>
 
 - [ ] [iOS Networking and Testing](https://techblog.woowahan.com/2704/)
+- [ ] [우아한 소개&인터뷰](https://career.woowahan.com/woowa-team)
 
 <div align = center>
  
@@ -63,10 +64,10 @@
  
 </div>
 
-- [ ] [모바일 앱 공개채용 설명회 ](https://team.daangn.com/jobs/4300798003/)
+- [ ] [모바일 앱 공개채용 설명회](https://team.daangn.com/jobs/4300798003/)
 - [ ] [당근마켓 iOS 프로젝트에 XcodeGen 도입하기](https://medium.com/daangn/프로젝트에-xcodegen-도입하기-d0fd54691aad)
 
-<div algin=center>
+<div align=center>
 
 ## 파파고 iOS 개발자 Hong seongho[🔗](https://medium.com/@hongseongho)
 

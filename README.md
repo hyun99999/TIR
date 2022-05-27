@@ -51,6 +51,12 @@
 
 <div align = center>
  
+## NAVER D2[🔗](https://d2.naver.com/search?keyword=ios&sort=postPublishedAt%2Cdesc)
+ 
+</div>
+
+<div align = center>
+ 
 ## 우아한 형제들[🔗](https://techblog.woowahan.com)
  
 </div>

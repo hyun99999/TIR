@@ -9,8 +9,6 @@
 
 </div>
 
-
-
  <div align = center>
 
  ## Kakao Tech [🔗](https://tech.kakao.com)
@@ -52,8 +50,13 @@
 <div align = center>
  
 ## NAVER D2[🔗](https://d2.naver.com/search?keyword=ios&sort=postPublishedAt%2Cdesc)
- 
+
 </div>
+
+- [x] `6/9` [2022 OPEN CLASS 다시보기]((https://tv.naver.com/v/27083539))
+    > - _느낀점_ : 네이버에서의 Career Talk 과 최근에 시작한 채용전형인 Track 인턴십과 공채 대해서 소개해주는 영상을 보았다. 인턴십과 공채 두개 모두를 고민하고 있었고, 네이버에서 개발자의 삶이 궁금해서 시청하게 되었다. 인턴십은 내가 원하는 분야의 특정 부서에 지원 할 수 있고, 빠르게 해당 부서의 문화를 겪어볼 수 있는 점이 장점이라고 한다. 공채는 탄탄한 온보딩 과정을 거칠 수 있고, 개발외적으로 지원하는 많은 기술에 대해서 배움이 가능한 것이 장점이라고 한다. 또한, 온보딩 후에는 네이버 계열을 선택할 수 있다고 하니 좋은 점 같다. 
+    > 
+    > 다양한 기술조직들이 존재하기때문에 제 2사옥인 1784 프로젝트(사람과 로봇이 공존하는 사회)와 같은 것도 가능하다라고 느꼈다. 해당 프로젝트는 신기술을 우리가 직접 사용해보고 적용된 공간을 이용함으로써 출시할 수 있고 글로벌로 나갈 수 있는 장점이 있다고 한다. 되게 신기한 프로젝트라고 느꼈다.
 
 <div align = center>
  
@@ -109,3 +112,5 @@
 ## Style Share[🔗](https://medium.com/styleshare/medium-com-styleshare-engineering/home) 
  
 </div>
+
+<div align=center>

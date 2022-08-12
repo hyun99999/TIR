@@ -136,7 +136,7 @@
 </div>
 
 - [x] `8/12`[토스ㅣSLASH 22 - 미친 생산성을 위한 React Native](https://www.youtube.com/watch?v=b_6CjuvVg8o)
-    > - _느낀점_ : 
+    > - _느낀점_ : React Native 를 실제로 토스 글로벌 앱에 도입하여 네이티브의 단점과 당시의 토스 글로벌 팀의 상황에 따라서 React Native 의 장점을 Flutter 와 비교하며 감수할 부분은 감수하며 진행하게된 과정과 이유 프로세스에 대해서 자세히 설명해주어 쉽게 납득할 수 있었다. 또한, 스위프트 개발자님의 고민처럼 스위프트 경력이 단절되거나 리액트 네이티브의 앞으로에 대한 걱정 등 팀이 아닌 개인에 대한 고민했던 점도 얘기해주셔서 더 다가왔던 것 같다. 토스 slash 22 시리즈를 쭉 보면서 토스가 좀 더 어떤 기업인지 알 수 있겠다고 느꼈다.
 - [ ] [토스ㅣSLASH 22 - UIKit으로 만들어진 토스 디자인 시스템, SwiftUI에서 쓸 수 있을까?](https://www.youtube.com/watch?v=q0CX-0k2l0g&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=22)
 - [ ] [토스ㅣSLASH 22 - iOS앱을 매주 배포 한다고?](https://www.youtube.com/watch?v=GhcJ-KDFLrU&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=5)
 

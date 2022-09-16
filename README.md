@@ -140,4 +140,6 @@
 - [ ] [토스ㅣSLASH 22 - UIKit으로 만들어진 토스 디자인 시스템, SwiftUI에서 쓸 수 있을까?](https://www.youtube.com/watch?v=q0CX-0k2l0g&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=22)
 - [ ] [토스ㅣSLASH 22 - iOS앱을 매주 배포 한다고?](https://www.youtube.com/watch?v=GhcJ-KDFLrU&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=5)
 
-
+## NAVER WEBTOON[🔗](https://recruit.webtoonscorp.com/main.do)
+- [ ] [네이버웹툰 신입 개발자의 성장 일기](https://recruit.webtoonscorp.com/cnts/story_detail?id=11&utm_source=%08insidepost&utm_medium=%08insidepost_page&utm_campaign=basic) 
+- [ ] [개발자의 커리어로 네이버웹툰을 선택한 이유](https://recruit.webtoonscorp.com/cnts/story_detail?id=17&utm_source=%08insidepost&utm_medium=%08insidepost_page&utm_campaign=basic)

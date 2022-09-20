@@ -141,5 +141,6 @@
 - [ ] [토스ㅣSLASH 22 - iOS앱을 매주 배포 한다고?](https://www.youtube.com/watch?v=GhcJ-KDFLrU&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=5)
 
 ## NAVER WEBTOON[🔗](https://recruit.webtoonscorp.com/main.do)
-- [ ] [네이버웹툰 신입 개발자의 성장 일기](https://recruit.webtoonscorp.com/cnts/story_detail?id=11&utm_source=%08insidepost&utm_medium=%08insidepost_page&utm_campaign=basic) 
+- [x] `9/20` [네이버웹툰 신입 개발자의 성장 일기](https://recruit.webtoonscorp.com/cnts/story_detail?id=11&utm_source=%08insidepost&utm_medium=%08insidepost_page&utm_campaign=basic)
+    > - _느낀점_ : 2021 네이버웹툰 신입 개발자분들의 인터뷰를 읽게되었다. 어떻게 커리어를 시작해서 나아가시는지 궁금했다. 대부분의 분들이 네이버에서 진행하는 다양한 행사에 참여하면서 네이버웹툰의 개발 문화를 통해서 선택하셨다고 하셨다. 가까운 곳에서 네이버웹툰의 개발 문화를 경험해 볼 수 있는 경험이 부러웠다. 면접문화가 다른 기업에 비해서 조금 달랐다. 이때는 손 코딩도했다는데 최근 공고에서는 라이브 코딩을 할 예정이다. 사내 컨퍼런스와 스터디제도가 있다고 했다. 이런 경험을 나도 꼭 하고 싶다고 생각했다. 합격자분들의 어려웠던 점은 프로젝트의 히스토리를 이해하는데 많은 리소스가 든다고 하셨다. 레거시코드도 그렇고 아키텍처에 대해서 이해하기 위해서는 사내 위키 등 많은 노력이 필요하겠다고 생각했다. 예비 취준생들한테 하는 말씀이 가장 와닿았다. 준비하는 과정에서만 배울 수 있는 것이 있고, 많다라는 것에 동의한다. 또한, 네이버웹툰은 웹툰, 웹소설과 영상까지 다양한 개발을 경험해볼 수 있는 것이 장점이라고 하셨다.
 - [ ] [개발자의 커리어로 네이버웹툰을 선택한 이유](https://recruit.webtoonscorp.com/cnts/story_detail?id=17&utm_source=%08insidepost&utm_medium=%08insidepost_page&utm_campaign=basic)

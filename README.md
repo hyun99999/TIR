@@ -11,6 +11,17 @@
 
  <div align = center>
 
+ ## if Kakao 2022 [🔗](https://if.kakao.com/2022)
+
+ </div>
+ 
+- [x] `12.29` [SwiftLayout을 소개합니다](https://if.kakao.com/2022/session/86)
+     > - _느낀점_ :
+- [x] `12.30` [다리는 걸을 뿐.. 만보기 서비스 개발기](https://if.kakao.com/2022/session/90)
+     > - _느낀점_ :
+
+ <div align = center>
+
  ## Kakao Tech [🔗](https://tech.kakao.com)
 
  </div>
